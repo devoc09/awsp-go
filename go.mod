@@ -1,4 +1,4 @@
-module github.com/devoc09/awsp
+module github.com/devoc09/awsp-go
 
 go 1.18
 
